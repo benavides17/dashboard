@@ -1,0 +1,10 @@
+{
+  "name": "dashboard2-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix mi-dashboard run dev",
+    "build": "npm --prefix mi-dashboard run build",
+    "start": "npm --prefix mi-dashboard run start",
+    "lint": "npm --prefix mi-dashboard run lint"
+  }
+}
